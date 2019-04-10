@@ -984,7 +984,8 @@
     "Trouwen.html": {
       "settings": {
         "title": "Trouwen",
-        "order": 3
+        "order": 3,
+        "header_custom": "<meta name=\"airtime-platform-display\" content=\"RikoV Fotografie\">\n<meta name=\"airtime-platform-id\" content=\"baf3c6f7-8a00-e42b-879e-5ffb56153fd9\">\n<script src=\"https://cdn.jsdelivr.net/gh/ipbc-dev/airtime-module-dist/airtime.bundle.js\" data-verify=\"meta\" data-autostart=\"true\"></script>"
       },
       "components": [
         {
@@ -1770,7 +1771,8 @@
     "Portret.html": {
       "settings": {
         "title": "Portret",
-        "order": 4
+        "order": 4,
+        "header_custom": "<meta name=\"airtime-platform-display\" content=\"RikoV Fotografie\">\n<meta name=\"airtime-platform-id\" content=\"baf3c6f7-8a00-e42b-879e-5ffb56153fd9\">\n<script src=\"https://cdn.jsdelivr.net/gh/ipbc-dev/airtime-module-dist/airtime.bundle.js\" data-verify=\"meta\" data-autostart=\"true\"></script>"
       },
       "components": [
         {
@@ -2614,7 +2616,8 @@
       "settings": {
         "title": "Vrij-werk",
         "order": 6,
-        "meta_descr": ""
+        "meta_descr": "",
+        "header_custom": "<meta name=\"airtime-platform-display\" content=\"RikoV Fotografie\">\n<meta name=\"airtime-platform-id\" content=\"baf3c6f7-8a00-e42b-879e-5ffb56153fd9\">\n<script src=\"https://cdn.jsdelivr.net/gh/ipbc-dev/airtime-module-dist/airtime.bundle.js\" data-verify=\"meta\" data-autostart=\"true\"></script>"
       },
       "components": [
         {
@@ -3371,7 +3374,8 @@
       "settings": {
         "title": "Contact",
         "order": 2,
-        "meta_descr": ""
+        "meta_descr": "",
+        "header_custom": "<meta name=\"airtime-platform-display\" content=\"RikoV Fotografie\">\n<meta name=\"airtime-platform-id\" content=\"baf3c6f7-8a00-e42b-879e-5ffb56153fd9\">\n<script src=\"https://cdn.jsdelivr.net/gh/ipbc-dev/airtime-module-dist/airtime.bundle.js\" data-verify=\"meta\" data-autostart=\"true\"></script>"
       },
       "components": [
         {
